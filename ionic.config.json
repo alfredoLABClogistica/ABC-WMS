@@ -1,0 +1,7 @@
+{
+  "name": "ABC WMS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
